@@ -1,0 +1,52 @@
+# sectors.csv
+Symbol,Sector
+ADANIENT,Capital Goods
+ADANIPORTS,Services
+APOLLOHOSP,Healthcare
+ASIANPAINT,Materials
+AXISBANK,Financial Services
+BAJAJ-AUTO,Automobile
+BAJAJFINSV,Financial Services
+BAJFINANCE,Financial Services
+BEL,Capital Goods
+BHARTIARTL,Telecom
+BPCL,Energy
+BRITANNIA,Consumer Staples
+CIPLA,Healthcare
+COALINDIA,Metals & Mining
+DRREDDY,Healthcare
+EICHERMOT,Automobile
+GRASIM,Materials
+HCLTECH,IT
+HDFCBANK,Financial Services
+HDFCLIFE,Financial Services
+HEROMOTOCO,Automobile
+HINDALCO,Metals & Mining
+HINDUNILVR,Consumer Staples
+ICICIBANK,Financial Services
+INDUSINDBK,Financial Services
+INFY,IT
+ITC,Consumer Staples
+JSWSTEEL,Metals & Mining
+KOTAKBANK,Financial Services
+LT,Capital Goods
+M&M,Automobile
+MARUTI,Automobile
+NESTLEIND,Consumer Staples
+NTPC,Energy
+ONGC,Energy
+POWERGRID,Energy
+RELIANCE,Energy
+SBILIFE,Financial Services
+SBIN,Financial Services
+SHRIRAMFIN,Financial Services
+SUNPHARMA,Healthcare
+TATACONSUM,Consumer Staples
+TATAMOTORS,Automobile
+TATASTEEL,Metals & Mining
+TCS,IT
+TECHM,IT
+TITAN,Consumer Discretionary
+TRENT,Consumer Discretionary
+ULTRACEMCO,Materials
+WIPRO,IT
